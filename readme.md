@@ -24,7 +24,7 @@ El desafío es desarrollar la vista previa de Servicios Tecnológicos con Respon
 - Capaz de la manipulacion de contenedores e items con la sintaxis FLEXBOX y GRID
 
 ### LINK
-Solution URL:  
+Solution URL:[https://technological-services.netlify.app/](https://technological-services.netlify.app/)
 
 ### ¿COMENTARIOS?
 Si tienes comentarios o dudas no dudes en escribirme en mis redes sociales
